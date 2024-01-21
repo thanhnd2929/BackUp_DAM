@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LibMana</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="add_success">Thêm thành công</string>
+    <string name="add_not_success">Thêm thành bại</string>
+    <string name="delete_success">Xóa thành công</string>
+    <string name="delete_not_success">Xóa thành bại</string>
+    <string name="delete_not_success_for">Xóa thành bại do có liên kết</string>
+    <string name="edit_success">Sửa thành công</string>
+    <string name="edit_not_success">Sửa thành bại</string>
+    <string name="empty_field_warning">Vui lòng nhập đủ thông tin</string>
+</resources>
